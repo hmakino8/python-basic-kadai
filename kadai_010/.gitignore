@@ -6,6 +6,7 @@ crud/apps.py
 crud/migrations/
 crud/models.py
 crud/tests.py
+crud/base.html
 crud/templates/crud/product_confirm_delete.html
 crud/templates/crud/product_form.html
 crud/templates/crud/product_update_form.html

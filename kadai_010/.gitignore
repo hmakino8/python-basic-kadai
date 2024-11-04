@@ -1,4 +1,4 @@
-tmp/
+tmp
 crud/__init__.py
 crud/__pycache__/
 crud/admin.py
